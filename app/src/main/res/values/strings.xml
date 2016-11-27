@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable="false">Refresh</string>
+    <string name="action_share" translatable="false">Share</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="title_activity_detail">Details</string>
+
+    <!--Label for the sort preference [CHAR LIMIT=30] -->
+    <string name="pref_sort_order_label">Pick your sort order</string>
+    <!--Summary of what to set for sort preference [CHAR LIMIT=30] -->
+    <string name="pref_sort_order_summary">Set the value for movie data</string>
+    <!--Key name for storing sort order in SharedPreferences [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_order_key" translatable="false">sortorder</string>
+    <!--Default sort order for movie preference [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_order_popular" translatable="false">popular</string>
+    <!--Default sort order for movie preference [CHAR LIMIT=NONE] -->
+    <string name="pref_sort_order_top_rated" translatable="false">top_rated</string>
+
+    <string name="bean_movie_title">movieTitle</string>
+    <string name="bean_movie_release_date">movieReleaseDate</string>
+    <string name="bean_movie_poster">moviePoster</string>
+    <string name="bean_movie_vote_average">movieVoteAverage</string>
+    <string name="bean_movie_plot_synopsis">moviePlotSynopsis</string>
+
+    <string name="label_movie_title">Title: </string>
+    <string name="label_movie_release_date">Release Date: </string>
+    <string name="label_movie_vote_average">Vote Average: </string>
+    <string name="label_movie_plot_synopsis">Plot Synopsis: </string>
+
+</resources>

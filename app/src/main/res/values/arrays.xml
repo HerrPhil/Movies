@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- constants used in program logic -->
+    <string-array name="pref_sort_order_values">
+        <item name="popular">popular</item>
+        <item name="top_rated">top_rated</item>
+    </string-array>
+    <!-- user visible strings paired with constants -->
+    <string-array name="pref_sort_order_options">
+        <item name="popular">Popular</item>
+        <item name="top_rated">Top-rated</item>
+    </string-array>
+</resources>
